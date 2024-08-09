@@ -1,0 +1,12 @@
+Libraries:
+
+#include "UbidotsEsp32Mqtt.h"
+#include <PZEM004Tv30.h>
+#include <WiFiManager.h>
+#include <Arduino.h>
+
+
+To install Libraries. 
+1. Open Arduino IDE
+2. Go to Library manager and import the zip files.
+3. for the "Arduino.h" -> this library is already in the IDE so no need to install it. 
